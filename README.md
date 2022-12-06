@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Fatma-Alwasmi
+- 👀 I’m interested in hardware engineering, software engineering, circuit design and logic design
+- 🖥️ I’m currently getting my bachelor's in computer engineering.
+- ⌛️ my plans after getting my bachelor's in CMPEN is getting my masters in electrical engineering.
+- 👩🏽‍💻 I’m looking to get hands on experience through internships
+- 📫 How to reach me fka5155@psu.edu
