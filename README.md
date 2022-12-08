@@ -5,7 +5,7 @@
 
 - 🖥️ I’m currently working on **building an 8-bit computer from scratch**
 
-- 🌱 I’m currently learning **Systems Programming, Electronic Circuit Design I,Discrete Mathematics for Computer Science, Communication Networks, Signals and Systems: Continuous and Discrete-Time, Operating Systems Design & Construction, Introduction to Probability and Stochastic Processes for Engineering**
+- 📚 I’m currently learning **Systems Programming, Electronic Circuit Design I,Discrete Mathematics for Computer Science, Communication Networks, Signals and Systems: Continuous and Discrete-Time, Operating Systems Design & Construction, Introduction to Probability and Stochastic Processes for Engineering**
 
 - ⌛️ my plans **after getting my bachelor's in CMPEN is getting my masters in electrical engineering.**
 
