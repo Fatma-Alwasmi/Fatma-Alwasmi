@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I can solve a Rubik's cube**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">You can view my resume here:</h3>
 <p align="left">
 <a href="https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/fka5155_psu_edu/EQ2vGAaGMHtIhrn3bSzuWDYBknTdz6Ardujv1D1c-a7W9Q?e=nOlU4O" target="blank"><img align="center" src="https://t4.ftcdn.net/jpg/02/51/67/07/360_F_251670796_uldt5Z4Od04dCE4hYAsUxbbwNnl0Own9.jpg" alt="fatma alwasmi" height="100" width="100" /></a>
 </p>
