@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fatma alwasmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatma alwasmi" height="30" width="40" /></a>
+<a href="https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/fka5155_psu_edu/EQ2vGAaGMHtIhrn3bSzuWDYBknTdz6Ardujv1D1c-a7W9Q?e=nOlU4O" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://t4.ftcdn.net/jpg/02/51/67/07/360_F_251670796_uldt5Z4Od04dCE4hYAsUxbbwNnl0Own9.jpg)" alt="fatma alwasmi" height="100" width="100" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
