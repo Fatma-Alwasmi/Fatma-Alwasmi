@@ -15,7 +15,7 @@
 
 <h3 align="left">You can view my resume here:</h3>
 <p align="left">
-<a href="https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/fka5155_psu_edu/EQ2vGAaGMHtIhrn3bSzuWDYBknTdz6Ardujv1D1c-a7W9Q?e=nOlU4O" target="blank"><img align="center" src="file:///Users/fatmaal-wasmi/Desktop/308-3085721_resume-png-clipart-my-resume-icon-png.jpg" alt="fatma alwasmi" height="100" width="100" /></a>
+<a href="https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/fka5155_psu_edu/EQ2vGAaGMHtIhrn3bSzuWDYBknTdz6Ardujv1D1c-a7W9Q?e=nOlU4O" target="blank"><img align="center" src="https://thesushantkumar.com/wp-content/uploads/2021/09/istockphoto-1191253491-612x612-1.jpg" alt="fatma alwasmi" height="150" width="150" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
