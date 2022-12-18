@@ -3,8 +3,6 @@
 <h3 align="center">A passionate computer engineer student at the Pennsylvania State University looking for hands on experience through internships, classes and personal projects</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-- 🖥️ I’m currently working on **building an 8-bit computer from scratch**
-
 - 📚 I’m currently learning **Systems Programming, Electronic Circuit Design I,Discrete Mathematics for Computer Science, Communication Networks, Signals and Systems: Continuous and Discrete-Time, Operating Systems Design & Construction, Introduction to Probability and Stochastic Processes for Engineering**
 
 - ⌛️ my plans **after getting my bachelor's in CMPEN is getting my masters in electrical engineering.**
