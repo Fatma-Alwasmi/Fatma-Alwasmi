@@ -13,7 +13,7 @@
 
 <h3 align="left">You can view my resume here:</h3>
 <p align="left">
-<a href="https://drive.google.com/file/d/1m-am77zWBetY0ea2cVUiOw1H5or5r70D/view?usp=sharing" target="blank"> <img align="center" src="https://thesushantkumar.com/wp-content/uploads/2021/09/istockphoto-1191253491-612x612-1.jpg" alt="fatma alwasmi" height="150" width="150" /></a>
+<a href="https://drive.google.com/file/d/1viPv033_2az2EK0pSZ9huHjxOJGtP7xJ/view?usp=sharing" target="blank"> <img align="center" src="https://thesushantkumar.com/wp-content/uploads/2021/09/istockphoto-1191253491-612x612-1.jpg" alt="fatma alwasmi" height="150" width="150" /></a>
 </p>
 
 <h3 align="left">You can view my Linkedin profile here:</h3>
