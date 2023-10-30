@@ -27,6 +27,8 @@ Hello there! 👋 This is where I showcase my tech journey and the projects I've
 
 
 
+
+
 ### 🎤 **Control Karaoke Circuit** (Circuit and Devices Class)
 * 🔗 **Project Status:** Complete
 * 📜 **Description:** 
@@ -38,6 +40,8 @@ Hello there! 👋 This is where I showcase my tech journey and the projects I've
 
 
 
+
+
 ### 📘 **C Library** (Systems Programming Class)
 * 🔗 **Project Status:** Complete
 * 📜 **Description:** 
@@ -45,6 +49,8 @@ Hello there! 👋 This is where I showcase my tech journey and the projects I've
   * Key Features:
     - Caching functions for expedited access to recurrently used data.
     - Collaborative functions with remote servers, seamlessly integrating remote data as if it's local.
+
+
 
 
 
@@ -60,11 +66,15 @@ Hello there! 👋 This is where I showcase my tech journey and the projects I've
 
 
 
+
+
 ### 🌐 **Microarchitectural Design-space Exploration Using SimpleScalar**
 * 🔗 **Project Status:** Ongoing
 * 📜 **Description:** 
   * Utilized SimpleScalar for an in-depth design space exploration.
   * Covered an extensive 18-dimensional processor pipeline and memory hierarchy design space.
+
+
 
 
 
@@ -75,10 +85,6 @@ Hello there! 👋 This is where I showcase my tech journey and the projects I've
 
 🔍 **Looking for more?** Keep exploring my repositories!
 
-Feel free to connect with me:
-* [LinkedIn](#Your_LinkedIn_Profile_Link)
-* [Twitter](#Your_Twitter_Profile_Link)
-* [Personal Website](#Your_Website_Link)
 
 🌟 **Thanks for stopping by!** 🌟
 
