@@ -11,7 +11,7 @@ Certainly! Here's a visually pleasing README for your GitHub portfolio:
 
 Hello there! 👋 This is where I showcase my tech journey and the projects I've been working on during my academic years and beyond. Dive in to see the magic of computer engineering, circuits, system programming, and more!
 
----
+
 
 ### 🖥 **Mini-CPU** (Computer Organization and Design Class)
 * 🔗 **Project Status:** Complete
@@ -25,7 +25,7 @@ Hello there! 👋 This is where I showcase my tech journey and the projects I've
     5. Write-back
     6. Control Hazard Delay Branch
 
----
+
 
 ### 🎤 **Control Karaoke Circuit** (Circuit and Devices Class)
 * 🔗 **Project Status:** Complete
@@ -36,7 +36,7 @@ Hello there! 👋 This is where I showcase my tech journey and the projects I've
     - Bass and treble adjustments.
     - Visual volume display using LEDs to indicate volume levels.
 
----
+
 
 ### 📘 **C Library** (Systems Programming Class)
 * 🔗 **Project Status:** Complete
@@ -46,7 +46,7 @@ Hello there! 👋 This is where I showcase my tech journey and the projects I've
     - Caching functions for expedited access to recurrently used data.
     - Collaborative functions with remote servers, seamlessly integrating remote data as if it's local.
 
----
+
 
 ### 🔍 **Mini OS**
 * 🔗 **Project Status:** Ongoing
@@ -58,7 +58,7 @@ Hello there! 👋 This is where I showcase my tech journey and the projects I've
     - Kernel space to user space relocation.
     - Top-level page table integration using `load_page_table`.
 
----
+
 
 ### 🌐 **Microarchitectural Design-space Exploration Using SimpleScalar**
 * 🔗 **Project Status:** Ongoing
@@ -66,12 +66,12 @@ Hello there! 👋 This is where I showcase my tech journey and the projects I've
   * Utilized SimpleScalar for an in-depth design space exploration.
   * Covered an extensive 18-dimensional processor pipeline and memory hierarchy design space.
 
----
+
 
 ### 🔄 **Dynamic (trace) scheduling**
 * 🔗 **Project Status:** Pending Description
 
----
+
 
 🔍 **Looking for more?** Keep exploring my repositories!
 
@@ -82,9 +82,7 @@ Feel free to connect with me:
 
 🌟 **Thanks for stopping by!** 🌟
 
----
 
-You might want to replace the placeholder links with your actual social profiles or personal website links. This format is aimed to give viewers a clear understanding of your projects, their current status, and the milestones you achieved during development.
 <p align="left">
 <a href="https://www.linkedin.com/in/fatmaalwasmi" target="blank"> <img align="center" src="https://icons.iconarchive.com/icons/sicons/flat-shadow-social/512/linkedin-icon.png" alt="fatma alwasmi" height="150" width="150" /></a>
 </p>
