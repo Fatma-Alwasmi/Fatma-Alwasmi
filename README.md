@@ -3,18 +3,88 @@
 <h3 align="center">A passionate computer engineer student at the Pennsylvania State University looking for hands on experience through internships, classes and personal projects</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-- 📚 I’m currently learning **computer vision, operating systems, and data structures and algorithms**
+Certainly! Here's a visually pleasing README for your GitHub portfolio:
 
-- 📫 How to reach me **fka5155@psu.edu**
+---
 
-- ⚡ Fun fact **I can solve a Rubik's cube**
+🌟 **Welcome to My GitHub Portfolio!** 🌟
 
-<h3 align="left">You can view my resume here:</h3>
-<p align="left">
-<a href="https://drive.google.com/file/d/1viPv033_2az2EK0pSZ9huHjxOJGtP7xJ/view?usp=sharing" target="blank"> <img align="center" src="https://thesushantkumar.com/wp-content/uploads/2021/09/istockphoto-1191253491-612x612-1.jpg" alt="fatma alwasmi" height="150" width="150" /></a>
-</p>
+Hello there! 👋 This is where I showcase my tech journey and the projects I've been working on during my academic years and beyond. Dive in to see the magic of computer engineering, circuits, system programming, and more!
 
-<h3 align="left">You can view my Linkedin profile here:</h3>
+---
+
+### 🖥 **Mini-CPU** (Computer Organization and Design Class)
+* 🔗 **Project Status:** Complete
+* 📜 **Description:** 
+  * Engineered a pipelined mini-CPU using Verilog.
+  * Progressed through 6 meticulously crafted stages:
+    1. Fetch
+    2. Decode
+    3. Execution
+    4. Memory Access
+    5. Write-back
+    6. Control Hazard Delay Branch
+
+---
+
+### 🎤 **Control Karaoke Circuit** (Circuit and Devices Class)
+* 🔗 **Project Status:** Complete
+* 📜 **Description:** 
+  * Conceived a tone-controlled karaoke PCB circuit.
+  * Features:
+    - Volume control.
+    - Bass and treble adjustments.
+    - Visual volume display using LEDs to indicate volume levels.
+
+---
+
+### 📘 **C Library** (Systems Programming Class)
+* 🔗 **Project Status:** Complete
+* 📜 **Description:** 
+  * Established a C library in the UNIX environment for enhanced data tasks.
+  * Key Features:
+    - Caching functions for expedited access to recurrently used data.
+    - Collaborative functions with remote servers, seamlessly integrating remote data as if it's local.
+
+---
+
+### 🔍 **Mini OS**
+* 🔗 **Project Status:** Ongoing
+* 📜 **Description:** 
+  * The core functionalities involve:
+    - Initialization of kernel passing address pointers to user space, user program, and memory.
+    - System call routing from user space.
+  * Progress:
+    - Kernel space to user space relocation.
+    - Top-level page table integration using `load_page_table`.
+
+---
+
+### 🌐 **Microarchitectural Design-space Exploration Using SimpleScalar**
+* 🔗 **Project Status:** Ongoing
+* 📜 **Description:** 
+  * Utilized SimpleScalar for an in-depth design space exploration.
+  * Covered an extensive 18-dimensional processor pipeline and memory hierarchy design space.
+
+---
+
+### 🔄 **Dynamic (trace) scheduling**
+* 🔗 **Project Status:** Pending Description
+
+---
+
+🔍 **Looking for more?** Keep exploring my repositories!
+
+Feel free to connect with me:
+* [LinkedIn](#Your_LinkedIn_Profile_Link)
+* [Twitter](#Your_Twitter_Profile_Link)
+* [Personal Website](#Your_Website_Link)
+
+🌟 **Thanks for stopping by!** 🌟
+
+---
+
+You might want to replace the placeholder links with your actual social profiles or personal website links. This format is aimed to give viewers a clear understanding of your projects, their current status, and the milestones you achieved during development.
 <p align="left">
 <a href="https://www.linkedin.com/in/fatmaalwasmi" target="blank"> <img align="center" src="https://icons.iconarchive.com/icons/sicons/flat-shadow-social/512/linkedin-icon.png" alt="fatma alwasmi" height="150" width="150" /></a>
 </p>
