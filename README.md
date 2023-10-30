@@ -3,9 +3,7 @@
 <h3 align="center">A passionate computer engineer student at the Pennsylvania State University looking for hands on experience through internships, classes and personal projects</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-Certainly! Here's a visually pleasing README for your GitHub portfolio:
 
----
 
 🌟 **Welcome to My GitHub Portfolio!** 🌟
 
