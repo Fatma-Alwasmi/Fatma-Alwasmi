@@ -3,18 +3,11 @@
 
 
 
-
-
-
-
-
 🌟 **Welcome to My GitHub Portfolio!** 🌟
 
-Hello there! 👋 This is where I showcase my tech journey and the projects I've been working on during my academic years and beyond. Dive in to see the magic of computer engineering, circuits, system programming, and more!
+Hello there! 👋 This is where I showcase my tech journey and the projects I've been working on during my academic years and beyond.
 
-# Comprehensive Projects Overview 🚀
-
-This README provides a detailed overview of various projects completed in hardware and software domains, showcasing skills in FPGA design, embedded systems, software development, and more.
+This README provides an overview of various projects completed in hardware and software domains, showcasing skills in embedded systems,  FPGA design, software development, and more.
 
 ## CAPSTONE PROJECT: UAV Autonomous Flight Control and Object Detection - Boeing Co 🚁
 -  Built a flight control program in Python using MAVlink commands for drone operations such as takeoff, landing, and directional control.
