@@ -1,5 +1,5 @@
 <img align="center" alt="Coding" width="1100" src="https://images.fineartamerica.com/images-medium-large-5/printed-circuit-board-paul-woottonscience-photo-library.jpg">
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 
 
@@ -62,9 +62,7 @@ This README provides a detailed overview of various projects completed in hardwa
 - **Event:** Penn State Robotics Club
 - Built and designed a marble collecting robot, securing first place in the competition.
 
-## Connect With Me 📫
 
-For more details on these projects or potential collaborations, feel free to reach out through my [GitHub Issues page](https://github.com/username/repository/issues) or follow me on [Twitter](https://twitter.com/username).
 
 
 🔍 **Looking for more?** Keep exploring my repositories!
