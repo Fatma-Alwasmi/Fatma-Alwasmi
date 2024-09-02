@@ -7,81 +7,68 @@
 
 Hello there! 👋 This is where I showcase my tech journey and the projects I've been working on during my academic years and beyond. Dive in to see the magic of computer engineering, circuits, system programming, and more!
 
+# Comprehensive Projects Overview 🚀
 
+This README provides a detailed overview of various projects completed in hardware and software domains, showcasing skills in FPGA design, embedded systems, software development, and more.
 
-### 🖥 **Mini-CPU** (Computer Organization and Design Class)
-* 🔗 **Project Status:** Complete
-* 📜 **Description:** 
-  * Engineered a pipelined mini-CPU using Verilog.
-  * Progressed through 6 meticulously crafted stages:
-    1. Fetch
-    2. Decode
-    3. Execution
-    4. Memory Access
-    5. Write-back
-    6. Control Hazard Delay Branch
+## CAPSTONE PROJECT: UAV Autonomous Flight Control and Object Detection - Boeing Co 🚁
+-  Built a flight control program in Python using MAVlink commands for drone operations such as takeoff, landing, and directional control.
 
+## Hardware Projects 🔩
 
+### Mini-CPU
+- **Course:** Computer Organization and Design
+- Developed a mini-CPU simulation in Verilog with features like instruction fetch/decode, execution, and memory operations.
+- Implemented pipelined architecture and a control unit to manage execution flow dynamically.
 
+### Pipelined 128-bit Adder Design for FPGA
+- **Course:** Field Programmable Devices
+- Designed a 128-bit pipelined Ripple Carry Adder, enhancing computational throughput by segmenting the adder into eight 16-bit blocks.
+- Achieved a 51.8% increase in operational frequency.
 
+### High-Level Synthesis FIR Design and IP Packaging
+- **Course:** Field Programmable Devices
+- Developed a 1D FIR filter on a Zedboard FPGA using Vivado HLS, utilizing HLS pragmas for performance optimization.
 
-### 🎤 **Control Karaoke Circuit** (Circuit and Devices Class)
-* 🔗 **Project Status:** Complete
-* 📜 **Description:** 
-  * Conceived a tone-controlled karaoke PCB circuit.
-  * Features:
-    - Volume control.
-    - Bass and treble adjustments.
-    - Visual volume display using LEDs to indicate volume levels.
+### CORDIC Based Signal Processor
+- **Course:** Field Programmable Devices
+- Implemented a 25-tap complex FIR Filter and CORDIC Rotator for signal processing on a Zynq FPGA.
 
+## Software Projects 💻
 
+### C Library
+- **Course:** Systems Programming
+- Developed a C library for managing complex JBOD setups with advanced caching to optimize data retrieval.
 
+### Mini OS
+- **Course:** Operating Systems
+- Developed and implemented kernel modules for dynamic page table initialization and memory management.
 
+### Dynamic Memory Allocator
+- **Course:** Operating Systems
+- Created a dynamic memory allocator in C, optimizing for alignment and minimizing fragmentation.
 
-### 📘 **C Library** (Systems Programming Class)
-* 🔗 **Project Status:** Complete
-* 📜 **Description:** 
-  * Established a C library in the UNIX environment for enhanced data tasks.
-  * Key Features:
-    - Caching functions for expedited access to recurrently used data.
-    - Collaborative functions with remote servers, seamlessly integrating remote data as if it's local.
+### Channels in C
+- **Course:** Operating Systems
+- Designed a high-performance communication channel in C, supporting efficient synchronization among threads.
 
+### Course Scheduler
+- **Course:** Object Oriented Programming with Web-Based Applications
+- Built a course scheduling application with a GUI in NetBeans for admin and student interactions.
 
+## Competition 🏆
 
+### Robotics Competition
+- **Event:** Penn State Robotics Club
+- Built and designed a marble collecting robot, securing first place in the competition.
 
+## Connect With Me 📫
 
-### 🔍 **Mini OS**
-* 🔗 **Project Status:** Ongoing
-* 📜 **Description:** 
-  * The core functionalities involve:
-    - Initialization of kernel passing address pointers to user space, user program, and memory.
-    - System call routing from user space.
-  * Progress:
-    - Kernel space to user space relocation.
-    - Top-level page table integration using `load_page_table`.
-
-
-
-
-
-### 🌐 **Microarchitectural Design-space Exploration Using SimpleScalar**
-* 🔗 **Project Status:** Ongoing
-* 📜 **Description:** 
-  * Utilized SimpleScalar for an in-depth design space exploration.
-  * Covered an extensive 18-dimensional processor pipeline and memory hierarchy design space.
-
-
-
-
-
-### 🔄 **Dynamic (trace) scheduling**
-* 🔗 **Project Status:** Pending Description
-
+For more details on these projects or potential collaborations, feel free to reach out through my [GitHub Issues page](https://github.com/username/repository/issues) or follow me on [Twitter](https://twitter.com/username).
 
 
 🔍 **Looking for more?** Keep exploring my repositories!
 
-
-🌟 **Thanks for stopping by!** 🌟
+Thank you for exploring my project portfolio 🌟
 
 
