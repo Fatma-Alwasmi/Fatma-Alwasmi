@@ -32,6 +32,10 @@ This README provides an overview of various projects completed in hardware and s
 - **Course:** Field Programmable Devices
 - Implemented a 25-tap complex FIR Filter and CORDIC Rotator for signal processing on a Zynq FPGA.
 
+### Control karaoke Circuit 
+= **Course:** circuit and Devices class
+- Built and designed a tone control/karaoke PCB circuit for volume, bass, and treble management.
+
 ## Software Projects 💻
 
 ### C Library
