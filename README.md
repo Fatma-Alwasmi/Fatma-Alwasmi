@@ -5,8 +5,6 @@
 
 🌟 **Welcome to My GitHub Portfolio!** 🌟
 
-Hello there! 👋 This is where I showcase my tech journey and the projects I've been working on during my academic years and beyond.
-
 This README provides an overview of various projects completed in hardware and software domains, showcasing skills in embedded systems,  FPGA design, software development, and more.
 
 ## CAPSTONE PROJECT: UAV Autonomous Flight Control and Object Detection - Boeing Co 🚁
@@ -63,12 +61,3 @@ This README provides an overview of various projects completed in hardware and s
 ### Robotics Competition
 - **Event:** Penn State Robotics Club
 - Built and designed a marble collecting robot, securing first place in the competition.
-
-
-
-
-🔍 **Looking for more?** Keep exploring my repositories!
-
-Thank you for exploring my project portfolio 🌟
-
-
