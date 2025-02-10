@@ -3,61 +3,6 @@
 
 
 
-🌟 **Welcome to My GitHub Portfolio!** 🌟
+🌟 **Welcome to My GitHub!** 🌟
 
-This README provides an overview of various projects completed in hardware and software domains, showcasing skills in embedded systems,  FPGA design, software development, and more.
 
-## CAPSTONE PROJECT: UAV Autonomous Flight Control and Object Detection - Boeing Co 🚁
--  Built a flight control program in Python using MAVlink commands for drone operations such as takeoff, landing, and directional control.
-
-## Hardware Projects 🔩
-
-### Mini-CPU
-- **Course:** Computer Organization and Design
-- Developed a mini-CPU simulation in Verilog with features like instruction fetch/decode, execution, and memory operations.
-- Implemented pipelined architecture and a control unit to manage execution flow dynamically.
-
-### Pipelined 128-bit Adder Design for FPGA
-- **Course:** Field Programmable Devices
-- Designed a 128-bit pipelined Ripple Carry Adder, enhancing computational throughput by segmenting the adder into eight 16-bit blocks.
-- Achieved a 51.8% increase in operational frequency.
-
-### High-Level Synthesis FIR Design and IP Packaging
-- **Course:** Field Programmable Devices
-- Developed a 1D FIR filter on a Zedboard FPGA using Vivado HLS, utilizing HLS pragmas for performance optimization.
-
-### CORDIC Based Signal Processor
-- **Course:** Field Programmable Devices
-- Implemented a 25-tap complex FIR Filter and CORDIC Rotator for signal processing on a Zynq FPGA.
-
-### Control karaoke Circuit 
-- **Course:** circuit and Devices class
-- Built and designed a tone control/karaoke PCB circuit for volume, bass, and treble management.
-
-## Software Projects 💻
-
-### C Library
-- **Course:** Systems Programming
-- Developed a C library for managing complex JBOD setups with advanced caching to optimize data retrieval.
-
-### Mini OS
-- **Course:** Operating Systems
-- Developed and implemented kernel modules for dynamic page table initialization and memory management.
-
-### Dynamic Memory Allocator
-- **Course:** Operating Systems
-- Created a dynamic memory allocator in C, optimizing for alignment and minimizing fragmentation.
-
-### Channels in C
-- **Course:** Operating Systems
-- Designed a high-performance communication channel in C, supporting efficient synchronization among threads.
-
-### Course Scheduler
-- **Course:** Object Oriented Programming with Web-Based Applications
-- Built a course scheduling application with a GUI in NetBeans for admin and student interactions.
-
-## Competition 🏆
-
-### Robotics Competition
-- **Event:** Penn State Robotics Club
-- Built and designed a marble collecting robot, securing first place in the competition.
